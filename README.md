@@ -2,10 +2,10 @@
 Web Automation Testing with Java and Selenium
 
 ## Tools
-Java
-Selenium
-Maven
-POI
+1. Java
+2. Selenium
+3. Maven
+4. POI
 
 ## Features
 1. Read test case and test data from excel file in resource
